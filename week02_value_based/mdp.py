@@ -284,7 +284,7 @@ class FrozenLakeEnv(MDP):
 
 def plot_graph(
     mdp,
-    graph_size="10,10",
+    graph_size="50,50",
     s_node_size="1,5",
     a_node_size="0,5",
     rankdir="LR",
