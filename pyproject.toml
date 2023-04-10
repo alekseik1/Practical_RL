@@ -10,7 +10,6 @@ python = "^3.10"
 torch = "^1.13"
 gym = {version = "^0.17", extras = ["box2d"]}
 matplotlib = "^3.7.1"
-pyopengl = "^3.1.6"
 tqdm = "^4.65.0"
 
 [tool.poetry.group.dev.dependencies]
