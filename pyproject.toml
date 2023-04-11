@@ -12,6 +12,7 @@ gym = {version = "^0.17", extras = ["box2d", "atari", "classic_control"]}
 matplotlib = "^3.7.1"
 tqdm = "^4.65.0"
 pygame = "^2.3.0"
+pandas = "^2.0.0"
 
 [tool.poetry.group.dev.dependencies]
 notebook = "^6.5.4"
